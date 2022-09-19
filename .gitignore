@@ -1,3 +1,4 @@
 /firmware/*.uf2
 
 *.code-workspace
+notes.md
